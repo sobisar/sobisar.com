@@ -1,6 +1,7 @@
 # Using this project
 
 - Clone Repo
+- `npm install hexo-cli -g`
 - `npm install`
 - `hexo generate`
 - `hexo server`
