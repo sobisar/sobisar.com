@@ -1,6 +1,7 @@
 # Using this project
 
-- Cloan Repo
-- npm install
-- hexo generate
-- hexo server
+- Clone Repo
+- `npm install`
+- `hexo generate`
+- `hexo server`
+- create new post `hexo new "POST NAME"`
